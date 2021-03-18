@@ -14,7 +14,15 @@ https://terminal.c1games.com/competitions/239
 
 ## Members:
 - Evan Mahony
+- Sergiu Craioveanu
+- Oliver O'Brien
+
+We also submitted top 15 global algos in Season 8. After the competition end, that may be subject to change.
+
+## Find us on LinkedIn and Github!
+
 <br>
+Evan:
 <a href="https://www.linkedin.com/in/evanmahony/">
   <img align="left" alt="Evan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -22,7 +30,7 @@ https://terminal.c1games.com/competitions/239
   <img align="left" alt="Evan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
-- Sergiu Craioveanu
+Sergiu 
 <br>
 <a href="https://www.linkedin.com/in/sergiu-craioveanu/">
   <img align="left" alt="Sergiu's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -31,7 +39,7 @@ https://terminal.c1games.com/competitions/239
   <img align="left" alt="Sergiu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
-- Oliver O'Brien
+Oliver
 <br>
 <a href="https://www.linkedin.com/in/oliver-o-brien-398359147/">
   <img align="left" alt= Oliver's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -41,6 +49,6 @@ https://terminal.c1games.com/competitions/239
 </a>
 <br>
 
-We also submitted top 15 global algos in Season 8. After the competition end, that may be subject to change.
+
 
 
