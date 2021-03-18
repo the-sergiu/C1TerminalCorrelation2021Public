@@ -4,9 +4,8 @@ This is a public repo that summarizes our accomplishments in the Terminal Correl
 ## Terminal home page: 
 https://terminal.c1games.com/home
 
-Placed 14th in the 2021 European Regional Phase Competition.
-
 ## Team Name: ROUKIE
+Placed 14th in the 2021 European Regional Phase Competition.
 
 ## Members:
 - Evan Mahony
