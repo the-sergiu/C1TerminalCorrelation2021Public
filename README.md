@@ -14,6 +14,7 @@ https://terminal.c1games.com/competitions/239
 
 ## Members:
 - Evan Mahony
+
 <a href="https://www.linkedin.com/in/evanmahony/">
   <img align="left" alt="Evan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -22,6 +23,7 @@ https://terminal.c1games.com/competitions/239
 </a>
 
 - Sergiu Craioveanu
+
 <a href="https://www.linkedin.com/in/sergiu-craioveanu/">
   <img align="left" alt="Sergiu's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -30,6 +32,7 @@ https://terminal.c1games.com/competitions/239
 </a>
 
 - Oliver O'Brien
+
 <a href="https://www.linkedin.com/in/oliver-o-brien-398359147/">
   <img align="left" alt= Oliver's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
