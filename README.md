@@ -9,9 +9,9 @@ Placed 14th in the 2021 European Regional Phase Competition.
 ## Team Name: ROUKIE
 
 ## Members:
-Evan Mahony
-Sergiu Craioveanu
-Oliver O'Brien
+- Evan Mahony
+- Sergiu Craioveanu
+- Oliver O'Brien
 
 ## Competition link: 
 https://terminal.c1games.com/competitions/239
