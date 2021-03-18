@@ -30,18 +30,17 @@ We also submitted top 15 global algos in Season 8. After the competition's end, 
 </a>
 
 <br>
-### Sergiu 
 
+### Sergiu 
 <a href="https://www.linkedin.com/in/sergiu-craioveanu/">
   <img align="left" alt="Sergiu's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 <a href="https://github.com/the-sergiu">
   <img align="left" alt="Sergiu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
-###Oliver
 
+### Oliver
 <a href="https://www.linkedin.com/in/oliver-o-brien-398359147/">
   <img align="left" alt= Oliver's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
