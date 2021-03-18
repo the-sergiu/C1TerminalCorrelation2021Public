@@ -7,13 +7,13 @@ https://terminal.c1games.com/home
 ## Team Name: ROUKIE
 Placed 14th in the 2021 European Regional Phase Competition.
 
+## Competition link: 
+https://terminal.c1games.com/competitions/239
+
 ## Members:
 - Evan Mahony
 - Sergiu Craioveanu
 - Oliver O'Brien
-
-## Competition link: 
-https://terminal.c1games.com/competitions/239
 
 We also submitted top 15 global algos in Season 8. After the competition end, that may be subject to change.
 
