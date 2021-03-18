@@ -1,6 +1,8 @@
 # C1TerminalCorrelation2021Public
 This is a public repo that summarizes our accomplishments in the Terminal Correlation One 2021 Europe Regional Phase, which widely regarded as the most prestigious and competitive hackathon competition in Europe.
 
+Our code and approaches are contained in a private repo, as per the requirements of C1 so as not to divulge approaches that could potentially bring an unfair advantage to upcoming teams in future competitions.
+
 ## Terminal home page: 
 https://terminal.c1games.com/home
 
