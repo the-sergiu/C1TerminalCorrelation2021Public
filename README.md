@@ -21,14 +21,15 @@ We also submitted top 15 global algos in Season 8. After the competition end, th
 
 ## Find us on LinkedIn and Github!
 
+Evan
 <br>
-Evan:
 <a href="https://www.linkedin.com/in/evanmahony/">
   <img align="left" alt="Evan's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href=https://github.com/e99mahony">
   <img align="left" alt="Evan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<br>
 <br>
 Sergiu 
 <br>
@@ -38,6 +39,7 @@ Sergiu
 <a href="https://github.com/the-sergiu">
   <img align="left" alt="Sergiu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<br>
 <br>
 Oliver
 <br>
