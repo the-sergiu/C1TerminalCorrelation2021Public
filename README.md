@@ -17,7 +17,7 @@ https://terminal.c1games.com/competitions/239
 - Sergiu Craioveanu
 - Oliver O'Brien
 
-We also submitted top 15 global algos in Season 8. After the competition's end, that may be subject to change.
+We also submitted top 15 individual global algos in Season 8. After the competition's end, that may be subject to change.
 
 ## Find us on LinkedIn and Github!
 
